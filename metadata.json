@@ -1,0 +1,6 @@
+{
+  "name": "CyberSim",
+  "description": "An immersive cyberpunk simulation game inspired by retro classics. Features grid-based inventory, character progression, and 3D wireframe cyberspace hacking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
